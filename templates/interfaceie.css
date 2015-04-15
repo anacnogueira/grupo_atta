@@ -1,0 +1,18 @@
+#cols
+{
+  height:100%;
+}
+#cols div
+{
+  height:100%;
+  float:left;
+}
+#conteudo
+{
+  width:80%;
+}
+#menu_superior
+{
+  position: relative;
+  top: 32px;
+}
